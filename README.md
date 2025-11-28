@@ -29,7 +29,7 @@ O projeto segue rigorosamente a stack solicitada:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/airbnb-clone.git](https://github.com/SEU_USUARIO/airbnb-clone.git)
+    git clone [https://github.com/thiagocbadev/airbnb-clone-teste](https://github.com/thiagocbadev/airbnb-clone-teste/)
     cd airbnb-clone
     ```
 
