@@ -1,6 +1,6 @@
 # 🏨 Airbnb Clone - Teste Técnico
 
-Este projeto é um clone simplificado do Airbnb desenvolvido como parte de um teste técnico. A aplicação utiliza a arquitetura moderna do Next.js 15 para listar acomodações, exibir detalhes e garantir performance com estratégias de cache e renderização no servidor (SSR).
+Este projeto é um clone simplificado do Airbnb desenvolvido para um teste técnico. A aplicação utiliza a arquitetura moderna do Next.js 15 para listar acomodações, exibir detalhes e garantir performance com estratégias de cache e renderização no servidor (SSR).
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success)
 ![Coverage](https://img.shields.io/badge/Test_Coverage-50%25+-success)
